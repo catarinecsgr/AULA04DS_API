@@ -1,0 +1,66 @@
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\appsettings.Development.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\appsettings.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\RpgApi.exe
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\RpgApi.deps.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\RpgApi.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\RpgApi.pdb
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\refint\RpgApi.dll
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.pdb
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\2DS_THIAGO\DESENVOLVIMENTO DE SISTEMAS 1\Aula_04\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\refint\RpgApi.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.pdb
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\appsettings.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\RpgApi.exe
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\RpgApi.deps.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\RpgApi.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\RpgApi.pdb
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+C:\Users\Cat\Desktop\ETEC DS\2º Sem\DS - Desenvolvimento de Sistemas - Luiz Fernando\AULA04DS_API-master\obj\Debug\net7.0\ref\RpgApi.dll
